@@ -19,5 +19,8 @@
 			"Name": "NiagaraSimCaching",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
